@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am currently a PhD student at KAIST, Korea. I focus on some tasks in 3D reconstruction such as feature matching, image-based localization, and depth estimation. My ultimate goal is to build a system that can model our real world based on 2D observations.
 <!--
 **TruongKhang/TruongKhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
